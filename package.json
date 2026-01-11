@@ -23,10 +23,10 @@
     "zod": "^3.25.17"
   },
   "devDependencies": {
-    "@types/bcrypt": "^5.0.2",
-    "@types/node": "22.10.7",
-    "@types/react": "19.0.7",
-    "@types/react-dom": "19.0.3"
+    "@types/bcrypt": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
