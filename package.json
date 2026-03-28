@@ -6,29 +6,29 @@
     "start": "next start --hostname 0.0.0.0"
   },
   "dependencies": {
-    "@heroicons/react": "^2.2.0",
-    "@tailwindcss/forms": "^0.5.11",
-    "bcrypt": "^6.0.0",
-    "clsx": "^2.1.1",
+    "@heroicons/react": "latest",
+    "@tailwindcss/forms": "latest",
+    "bcrypt": "latest",
+    "clsx": "latest",
     "next": "latest",
-    "next-auth": "5.0.0-beta.30",
-    "postgres": "^3.4.8",
+    "next-auth": "latest",
+    "postgres": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "typescript": "5.9.3",
-    "use-debounce": "^10.1.0",
-    "zod": "^4.3.6"
+    "use-debounce": "latest",
+    "zod": "latest"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.2.0",
+    "@tailwindcss/postcss": "latest",
     "@types/bcrypt": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "autoprefixer": "10.4.24",
-    "baseline-browser-mapping": "^2.10.0",
-    "postcss": "8.5.6",
-    "tailwindcss": "4.1.18"
+    "autoprefixer": "latest",
+    "baseline-browser-mapping": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
