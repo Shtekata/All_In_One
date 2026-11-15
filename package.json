@@ -11,7 +11,7 @@
     "bcrypt": "latest",
     "clsx": "latest",
     "next": "latest",
-    "next-auth": "latest",
+    "next-auth": "beta",
     "postgres": "latest",
     "react": "latest",
     "react-dom": "latest",
@@ -29,11 +29,5 @@
     "postcss": "latest",
     "tailwindcss": "latest",
     "typescript": "latest"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "bcrypt",
-      "sharp"
-    ]
   }
 }
